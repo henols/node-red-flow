@@ -1,0 +1,12 @@
+{
+    "name": "HouseMonitr",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_ras-pi_II.json",
+            "credentialsFile": "flows_ras-pi_II_cred.json"
+        }
+    }
+}
