@@ -1,8 +1,12 @@
 {
-    "name": "HouseMonitr",
+    "name": "HouseMonitor",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-verisure": "0.4.0",
+        "node-red-node-emoncms": "0.2.1",
+        "node-red-node-pushbullet": "0.0.12"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_ras-pi_II.json",
