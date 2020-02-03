@@ -3,9 +3,14 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-verisure": "0.4.0",
         "node-red-node-emoncms": "0.2.1",
-        "node-red-node-pushbullet": "0.0.12"
+        "node-red-node-pushbullet": "0.0.12",
+        "node-red-contrib-xiaomi-smart-devices": "1.0.12",
+        "node-red-contrib-bigtimer": "2.2.5",
+        "node-red-contrib-influxdb": "0.2.2",
+        "node-red-contrib-tradfri": "1.2.0",
+        "node-red-contrib-yeelight-compat-hue": "1.2.1",
+        "node-red-node-serialport": "0.8.8"
     },
     "node-red": {
         "settings": {
