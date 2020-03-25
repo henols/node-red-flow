@@ -1,4 +1,4 @@
-HouseMonit0r
+HouseMonitor
 ============
 
 ### About

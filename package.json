@@ -10,7 +10,8 @@
         "node-red-contrib-influxdb": "0.2.2",
         "node-red-contrib-tradfri": "1.2.0",
         "node-red-contrib-yeelight-compat-hue": "1.2.1",
-        "node-red-node-serialport": "0.8.8"
+        "node-red-node-serialport": "0.8.8",
+        "node-red-dashboard": "2.19.3"
     },
     "node-red": {
         "settings": {
